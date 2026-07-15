@@ -6,7 +6,7 @@ Nexora Enterprise Network is a large-scale enterprise networking project built u
 
 The goal of this project is to design, implement, secure, and document a real-world enterprise network while covering CCNA technologies and enterprise networking best practices.
 
-## Technologies
+## Technologies :
 
 - Cisco Packet Tracer
 - VLANs
